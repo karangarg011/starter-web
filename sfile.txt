@@ -1,1 +1,5 @@
 mysecondfie with change added
+confilict at line 2
+confilict at line 4
+
+confilict at line 6
